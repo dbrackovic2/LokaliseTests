@@ -1,9 +1,8 @@
 # Automated tests for stage.lokalise.com
 
-## UI
 UI automated tests are implemented using WebdriverIO (https://webdriver.io/) + Typescript (https://www.typescriptlang.org/) + Cucumber (https://cucumber.io/).
 
-To run the UI automated tests first navigate to the UI directory then run the npm test command:
+To run the UI automated tests first do npm install then run the npm test command:
 ```
 npm install
 npm test
